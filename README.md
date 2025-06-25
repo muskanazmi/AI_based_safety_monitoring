@@ -1,11 +1,50 @@
-<<<<<<< HEAD
-# 🛡️ AI-Based Violence Detection System
+# 🛡️ AI-Based Safety Monitoring System
 
-A deep learning project to detect violence from video using MobileNetV2.
-=======
-# AI_based_safety_monitoring
-Safety is a critical concern in today's society, and the integration of artificial intelligence (AI) into  monitoring systems has the potential to significantly enhance real-time response to emergencies.  This project presents the design and implementation of an AI-based safety monitoring system  aimed at detecting violent activities in real-time.Using computer vision techniques and deep 
-learning models, the system analyzes video footage from surveillance cameras to identify instances of violent behavior. Upon detection, the system employs embedded systems for hardware-based signal transmission, automatically sending an alert to emergency contacts or the nearest police station, ensuring swift intervention to mitigate harm. The system leverages advanced techniques such as MobileNetV2 for efficient processing activities of interest ensuring accurate and reliable detection. The dataset comprises labeled video clips categorized into violent and non-violent activities, enabling the system to achieve high 
-precision and recall rates during testing. Additionally, the system is designed to be scalable, capable of integrating with existing surveillance infrastructures, and adaptable to various environments such as schools, public spaces, and workplaces. The incorporation of embedded systems ensures robust and reliable transmission of alert signals, making the system highly effective in critical situations. This project demonstrates the potential of AI and hardware integration in addressing public safety challenges, paving the way for innovative solutions in real-time emergency response systems.
+Welcome to the future of safety!  
+This project uses AI to **detect violence in real-time** using deep learning and computer vision — because everyone deserves to feel safe. 🧠📹
 
->>>>>>> 49f90c84c6ec3f31e71ab2c1ccf4c97d05b14c26
+---
+
+## 🚨 Demo
+
+🎥 Here’s how our model watches over public safety like a superhero in disguise:
+
+![Demo](demo/demo.gif)
+
+---
+
+## 🔍 What It Does
+
+✅ Detects violence in surveillance footage  
+✅ Triggers alerts if violence is detected  
+✅ Lightweight and mobile-friendly using MobileNetV2 
+✅ Sends Snapshot of the violent activity along with the  location via a Telegram bot API
+✅ Suitable for schools, stations, public places  
+
+---
+
+## 🧠 Tech Stack
+
+- 🔍 **Model**: MobileNetV2 + Attention Layer  
+- 📦 **Frameworks**: TensorFlow / Keras  
+- 💡 **Languages**: Python  
+- 🎞️ **Dataset**: AIRTLAB dataset
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone this repo
+git clone https://github.com/muskanazmi/AI_based_safety_monitoring.git
+
+# Navigate into the folder
+cd AI_based_safety_monitoring
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the model
+python violence_detection.py
+```
+
