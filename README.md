@@ -9,7 +9,7 @@ This project uses AI to **detect violence in real-time** using deep learning and
 
 🎥 Here’s how our model watches over public safety like a superhero in disguise:
 
-![Demo](demo/demo.gif)
+![Demo](demo/video-SqtunTxx-online-video-cutt.gif)
 
 ---
 
