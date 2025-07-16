@@ -17,9 +17,9 @@ This project uses AI to **detect violence in real-time** using deep learning and
 
 ✅ Detects violence in surveillance footage  
 ✅ Triggers alerts if violence is detected  
-✅ Lightweight and mobile-friendly using MobileNetV2 
-✅ Sends Snapshot of the violent activity along with the  location via a Telegram bot API
-✅ Suitable for schools, stations, public places  
+✅ Lightweight and mobile-friendly using MobileNetV2  
+✅ Sends snapshot of the violent activity along with the location via a Telegram bot API  
+✅ Suitable for schools, stations, and public places  
 
 ---
 
