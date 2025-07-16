@@ -69,4 +69,12 @@ pip install -r requirements.txt
 # Run the model
 python violence_detection.py
 ```
+## ❓ Questions
+
+Have questions about the model architecture or fine-tuning process?
+
+Feel free to reach out:
+
+📧 **Email**: [muskan685amu@gmail.com](mailto:muskan685amu@gmail.com)  
+🐙 **GitHub Issues**: You can also [open an issue](https://github.com/muskanazmi/AI_based_safety_monitoring/issues) on this repository.
 
